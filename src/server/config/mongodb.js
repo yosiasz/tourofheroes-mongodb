@@ -3,7 +3,7 @@ var config = {};
 var config = {
 		username: 'prisma',
         password: 'prisma',
-        server: '172.18.78.67',
+        server: 'your.mongdb.server.ip',
         database: 'heroes',
         port : 27017
     }
