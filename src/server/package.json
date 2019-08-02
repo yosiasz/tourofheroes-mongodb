@@ -1,7 +1,7 @@
 {
   "name": "tour-of-heroes-api",
   "version": "1.0.0",
-  "description": "Tour of Heroes api with express.js and MS SQL Server",
+  "description": "Tour of Heroes api with express.js and MongoDb",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
