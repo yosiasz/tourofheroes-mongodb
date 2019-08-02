@@ -1,4 +1,4 @@
-# Tour of heroes using MS SQL Server
+# Tour of heroes using MongoDb
 
 ## Getting Started
 
@@ -15,11 +15,11 @@
    npm install
    ```
 
-## SQL Server
-1. Change your mongodb.js config file to use either a SQL Account or dedicated AD service account. 
+## MongoDb
+1. Change your mongodb.js config to point to your MongoDb Server
    Here we will a SQL Account
 2. Create a database named **heroes**
-3. Open and run the sql scripts under ./src/sqlscript folder
+3. Create a collection named **heroes**
 
 ## Technologies
 - https://www.npmjs.com/package/mongodb
