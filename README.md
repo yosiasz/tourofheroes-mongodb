@@ -20,6 +20,7 @@
    Here we will a SQL Account
 2. Create a database named **heroes**
 3. Create a collection named **heroes**
+4. Add some data
 
 ## Technologies
 - https://www.npmjs.com/package/mongodb
