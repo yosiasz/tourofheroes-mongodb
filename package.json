@@ -1,5 +1,5 @@
 {
-  "name": "tour-of-heroes-mssql",
+  "name": "tour-of-heroes-mongodb",
   "version": "1.0.0",
   "private": true,
   "description": "Tour of heroes with express.js api with MS SQL Server backend.",
